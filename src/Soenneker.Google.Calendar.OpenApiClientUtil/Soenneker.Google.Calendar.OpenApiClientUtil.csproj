@@ -45,9 +45,9 @@
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="Soenneker.Kiota.GenericAuthenticationProvider" Version="11.0.60" />
+        <PackageReference Include="Soenneker.Kiota.GenericAuthenticationProvider" Version="11.0.61" />
         <!--<PackageReference Include="Soenneker.Google.Calendar.HttpClients" Version="11.0.1" />
         <PackageReference Include="Soenneker.Google.Calendar.OpenApiClient" Version="11.0.2" />-->
-        <PackageReference Include="Soenneker.Utils.AsyncSingleton" Version="11.0.889" />
+        <PackageReference Include="Soenneker.Utils.AsyncSingleton" Version="11.0.891" />
     </ItemGroup>
 </Project>
